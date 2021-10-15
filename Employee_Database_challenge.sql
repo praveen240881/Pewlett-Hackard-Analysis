@@ -59,3 +59,4 @@ order by emp.emp_no,demp.from_date desc;
 --retreive the mentorship_eligibilty table
 select * from mentorship_eligibilty;
 
+
